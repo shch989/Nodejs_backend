@@ -10,3 +10,7 @@
 ```
  $ npm install --save-dev @types/express
 ```
+#### Nodemon 설치 (v^2.0.19)
+```
+ $ npm install --save-dev @types/express
+```
