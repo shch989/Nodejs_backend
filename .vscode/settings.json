@@ -1,0 +1,6 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true, // 저장 시 자동 format
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
