@@ -6,11 +6,19 @@
 ```
  $ npm install express
 ```
-#### Express Type설정 (v^4.17.13)
+#### Express Type설정 (v4.17.13)
 ```
  $ npm install --save-dev @types/express
 ```
-#### Nodemon 설치 (v^2.0.19)
+#### Nodemon 설치 (v2.0.19)
 ```
  $ npm install --save-dev @types/express
+```
+#### BodyParser 설치 (v1.20.0)
+```
+ $ npm install body-parser
+```
+#### Pug 설치 (v3.0.2)
+```
+ $ npm install body-parser
 ```
