@@ -22,3 +22,7 @@
 ```
  $ npm install body-parser
 ```
+#### Jest 설치 (v29.0.3)
+```
+ $ npm install jest @types/jest supertest @types/supertest --save-dev 
+```
