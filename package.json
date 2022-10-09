@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "test": "jest",
     "server": "nodemon src/main.js"
   },
   "devDependencies": {
